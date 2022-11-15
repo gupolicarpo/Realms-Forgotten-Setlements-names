@@ -2845,7 +2845,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Quyaz, Banu Qild  -->
-  <Settlement id="town_A1" name="{=Settlements.Settlement.name.town_A1}Quyaz" owner="Faction.clan_aserai_1" posX="644.549" posY="242.755" culture="Culture.aserai" prosperity="4000" gate_posX="642.1591" gate_posY="240.767" text="{=1ImuW3My}Quyaz was once a mercantile republic that dominated the trade between the western ocean and the Perassic Sea, speaking the now all-but-extinct Kannic tongue, a relative of Nahasawi. But imperial hegemony slowly snuffed out its trade, and the rulers was taken over by mercenaries from the Nahasa. It came intermittently under imperial subjugation but today is a prized holding of the Banu Hulyan, a leading clan of the Aserai sultanate.">
+  <Settlement id="town_A1" name="{=Settlements.Settlement.name.town_A1}Tyr" owner="Faction.clan_aserai_1" posX="644.549" posY="242.755" culture="Culture.aserai" prosperity="4000" gate_posX="642.1591" gate_posY="240.767" text="{=1ImuW3My}Quyaz was once a mercantile republic that dominated the trade between the western ocean and the Perassic Sea, speaking the now all-but-extinct Kannic tongue, a relative of Nahasawi. But imperial hegemony slowly snuffed out its trade, and the rulers was taken over by mercenaries from the Nahasa. It came intermittently under imperial subjugation but today is a prized holding of the Banu Hulyan, a leading clan of the Aserai sultanate.">
     <Components>
       <Town id="town_comp_A1" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_aserai_town" gate_rotation="0.108" />
     </Components>
