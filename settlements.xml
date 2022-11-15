@@ -2154,7 +2154,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Varcheg, far-flung on peninsula. Probably Sturgian version of Nordic 'Varjag,' sworn companion -->
-  <Settlement id="town_S1" name="{=Settlements.Settlement.name.town_S1}Varcheg" owner="Faction.clan_sturgia_1" posX="566.752" posY="759.192" culture="Culture.sturgia" prosperity="3100" gate_posX="562.7634" gate_posY="756.679">
+  <Settlement id="town_S1" name="{=Settlements.Settlement.name.town_S1}Uriduh" owner="Faction.clan_sturgia_1" posX="566.752" posY="759.192" culture="Culture.sturgia" prosperity="3100" gate_posX="562.7634" gate_posY="756.679">
     <Components>
       <Town id="town_comp_S1" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.608" />
     </Components>
@@ -2217,7 +2217,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Coastal towns, Raganvad, White Fortress -->
-  <Settlement id="town_S2" name="{=Settlements.Settlement.name.town_S2}Balgard" owner="Faction.clan_sturgia_1" posX="695.746" posY="725.596" culture="Culture.sturgia" prosperity="2300" gate_posX="697.8539" gate_posY="721.672" text="{=Xom9DeXZ}Balgard, which sits on the icy waters of Mazopor bay, was founded by migrants from the Nordlands. Legend holds that the initial wave of Nords arrogantly demanded tribute from the nearby Vakken and Sturgian tribes, who formed an alliance and drove the newcomers back to their ships. But the victors fell out over the spoils, until a canny Nord, Gundar, landed and volunteered to help them fairly divvy up the weapons and armor of his dead kinsmen. The residents recognized Gundar's lordship over the region and his descendants, intermarried with the Sturgians, are today the grand princes of Sturgia.">
+  <Settlement id="town_S2" name="{=Settlements.Settlement.name.town_S2}Elarak" owner="Faction.clan_sturgia_1" posX="695.746" posY="725.596" culture="Culture.sturgia" prosperity="2300" gate_posX="697.8539" gate_posY="721.672" text="{=Xom9DeXZ}Balgard, which sits on the icy waters of Mazopor bay, was founded by migrants from the Nordlands. Legend holds that the initial wave of Nords arrogantly demanded tribute from the nearby Vakken and Sturgian tribes, who formed an alliance and drove the newcomers back to their ships. But the victors fell out over the spoils, until a canny Nord, Gundar, landed and volunteered to help them fairly divvy up the weapons and armor of his dead kinsmen. The residents recognized Gundar's lordship over the region and his descendants, intermarried with the Sturgians, are today the grand princes of Sturgia.">
     <Components>
       <Town id="town_comp_S2" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" />
     </Components>
@@ -2278,7 +2278,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_S3" name="{=Settlements.Settlement.name.town_S3}Omor" owner="Faction.clan_sturgia_2" posX="785.449" posY="756.718" culture="Culture.sturgia" prosperity="3200" gate_posX="782.6336" gate_posY="752.916" text="{=pbHXtJ82}Omor sits on the eastern shores of Lake Laconis. Long before the Sturgians formed themselves into a principality it was a holy site for the forest tribes, who worshipped their gods and ancestors in the sacred oak trees of the nearby woods. Today, it is an emporium for fur trappers and woodsmen who prowl the Ircara wildlands to the east, and the primeval peace of the forests is drowned out by the sounds of bartering, saws, and the unloading of ships at the lake.">
+  <Settlement id="town_S3" name="{=Settlements.Settlement.name.town_S3}Ummar" owner="Faction.clan_sturgia_2" posX="785.449" posY="756.718" culture="Culture.sturgia" prosperity="3200" gate_posX="782.6336" gate_posY="752.916" text="{=pbHXtJ82}Omor sits on the eastern shores of Lake Laconis. Long before the Sturgians formed themselves into a principality it was a holy site for the forest tribes, who worshipped their gods and ancestors in the sacred oak trees of the nearby woods. Today, it is an emporium for fur trappers and woodsmen who prowl the Ircara wildlands to the east, and the primeval peace of the forests is drowned out by the sounds of bartering, saws, and the unloading of ships at the lake.">
     <Components>
       <Town id="town_comp_S3" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.008" />
     </Components>
@@ -2328,7 +2328,7 @@
   <!-- Akon's place -->
   <!-- Olek's Faction -->
   <!-- Ravenfield -->
-  <Settlement id="town_S4" name="{=Settlements.Settlement.name.town_S4}Varnovapol" owner="Faction.clan_sturgia_4" posX="567.213" posY="651.6021" culture="Culture.sturgia" prosperity="3300" gate_posX="564.7484" gate_posY="653.1656" text="{=aTMypBiY}Varnovapol, which sits beneath the Chertyg mountains on the crystal waters of Lake Laconis, has the dubious honor of being perhaps the most-often conquered city in Calradia. Originally it was a colony of the Empire, infamous as a place of exile for dissident senators, before it was seized by Nords as a base to expand their influence into the Sturgian fur trade. It was taken by the Alkit tribe from the eastern steppe and briefly served as the capital of a small khanate, before finally falling to the fierce Ormidoving clan.">
+  <Settlement id="town_S4" name="{=Settlements.Settlement.name.town_S4}Zobolr" owner="Faction.clan_sturgia_4" posX="567.213" posY="651.6021" culture="Culture.sturgia" prosperity="3300" gate_posX="564.7484" gate_posY="653.1656" text="{=aTMypBiY}Varnovapol, which sits beneath the Chertyg mountains on the crystal waters of Lake Laconis, has the dubious honor of being perhaps the most-often conquered city in Calradia. Originally it was a colony of the Empire, infamous as a place of exile for dissident senators, before it was seized by Nords as a base to expand their influence into the Sturgian fur trade. It was taken by the Alkit tribe from the eastern steppe and briefly served as the capital of a small khanate, before finally falling to the fierce Ormidoving clan.">
     <Components>
       <Town id="town_comp_S4" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.808" />
     </Components>
@@ -2403,7 +2403,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Name of a local clan hero-->
-  <Settlement id="town_S5" name="{=Settlements.Settlement.name.town_S5}Tyal" owner="Faction.clan_sturgia_3" posX="420.324" posY="819.945" culture="Culture.sturgia" prosperity="1700" gate_posX="422.9333" gate_posY="816.8136" text="{=F5HlQdgf}Tyal sits in the western foothills of Mount Iltan, on the eastern borders of the Sturgian lands. This region has long stood aloof from the power struggles of the other Sturgian principalities. Its people are known as wanderers, traders, horse breeders and fur-trappers. The local aristocracy has occasionally exchanged princesses with the steppe tribes to the east to firm up a truce or a trade pact, and proudly includes the names of several great khans on their list of ancestors.">
+  <Settlement id="town_S5" name="{=Settlements.Settlement.name.town_S5}Gersul" owner="Faction.clan_sturgia_3" posX="420.324" posY="819.945" culture="Culture.sturgia" prosperity="1700" gate_posX="422.9333" gate_posY="816.8136" text="{=F5HlQdgf}Tyal sits in the western foothills of Mount Iltan, on the eastern borders of the Sturgian lands. This region has long stood aloof from the power struggles of the other Sturgian principalities. Its people are known as wanderers, traders, horse breeders and fur-trappers. The local aristocracy has occasionally exchanged princesses with the steppe tribes to the east to firm up a truce or a trade pact, and proudly includes the names of several great khans on their list of ancestors.">
     <Components>
       <Town id="town_comp_S5" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" />
     </Components>
@@ -2465,7 +2465,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Name of a local clan hero-->
-  <Settlement id="town_S6" name="{=Settlements.Settlement.name.town_S6}Sibir" owner="Faction.clan_sturgia_6" posX="646.68" posY="647.882" culture="Culture.sturgia" prosperity="1900" gate_posX="651.093" gate_posY="646.2015" text="{=PPadNxa6}Sibir was founded in a dark valley amid the Chertyg mountains by Nordic traders, who wished a base to buy furs from the local Vakken-speaking foresters. As the Sturgian tribes became principalities, and elected chieftains evolved into boyars who demanded taxes and labor as their due, this region became a magnet for Sturgians who had little taste for deference. Today, the ambitious Isyaroving family governs this region, but they must always balance their hunger for wealth and men to fight their wars with their subjects' reluctance to provide it.">
+  <Settlement id="town_S6" name="{=Settlements.Settlement.name.town_S6}Tarak" owner="Faction.clan_sturgia_6" posX="646.68" posY="647.882" culture="Culture.sturgia" prosperity="1900" gate_posX="651.093" gate_posY="646.2015" text="{=PPadNxa6}Sibir was founded in a dark valley amid the Chertyg mountains by Nordic traders, who wished a base to buy furs from the local Vakken-speaking foresters. As the Sturgian tribes became principalities, and elected chieftains evolved into boyars who demanded taxes and labor as their due, this region became a magnet for Sturgians who had little taste for deference. Today, the ambitious Isyaroving family governs this region, but they must always balance their hunger for wealth and men to fight their wars with their subjects' reluctance to provide it.">
     <Components>
       <Town id="town_comp_S6" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" />
     </Components>
@@ -2525,7 +2525,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_S7" name="{=Settlements.Settlement.name.town_S7}Revyl" owner="Faction.clan_sturgia_5" posX="798.052" posY="606.92" culture="Culture.sturgia" prosperity="3100" gate_posX="797.6993" gate_posY="611.1605" text="{=T2E4xKVn}Revyl, chief town of the rocky Kachyar peninsula, was a traditional rival of Balgard. According to legend the Balgardian princess Arkina, whose husband had been slain by the Revylians, accepted a proposal from her enemy's king to marry and settle the feud. On her wedding night, however, she barred the door of his hall and burned him and a hundred of his kinsmen and warriors alive inside. The feud has long since been settled by pacts and marriages with happier outcomes, although Revylians still resent the ascent of the Balgardian Gundaroving dynasty.">
+  <Settlement id="town_S7" name="{=Settlements.Settlement.name.town_S7}Bippur" owner="Faction.clan_sturgia_5" posX="798.052" posY="606.92" culture="Culture.sturgia" prosperity="3100" gate_posX="797.6993" gate_posY="611.1605" text="{=T2E4xKVn}Revyl, chief town of the rocky Kachyar peninsula, was a traditional rival of Balgard. According to legend the Balgardian princess Arkina, whose husband had been slain by the Revylians, accepted a proposal from her enemy's king to marry and settle the feud. On her wedding night, however, she barred the door of his hall and burned him and a hundred of his kinsmen and warriors alive inside. The feud has long since been settled by pacts and marriages with happier outcomes, although Revylians still resent the ascent of the Balgardian Gundaroving dynasty.">
     <Components>
       <Town id="town_comp_S7" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" />
     </Components>
@@ -3240,7 +3240,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_A7" name="{=Settlements.Settlement.name.town_A7}Askar" owner="Faction.clan_aserai_5" posX="792.765" posY="141.906" culture="Culture.aserai" prosperity="2100" gate_posX="790.8027" gate_posY="141.9973" text="{=GChIoZdd}Askar dominates the middle stretches of the Damar River, as it weaves between the bluffs of the Jarjara Escarpment. This region has been thickly populated for thousands of years, but the river is restless, and every few centuries leaps its banks and erases what comes before. This latest regional capital was an imperial encampment  during their furthest penetration of the Nahasa several centuries ago, taken over by the Aserai tribes after the legions withdrew.">
+  <Settlement id="town_A7" name="{=Settlements.Settlement.name.town_A7}Bodach" owner="Faction.clan_aserai_5" posX="792.765" posY="141.906" culture="Culture.aserai" prosperity="2100" gate_posX="790.8027" gate_posY="141.9973" text="{=GChIoZdd}Askar dominates the middle stretches of the Damar River, as it weaves between the bluffs of the Jarjara Escarpment. This region has been thickly populated for thousands of years, but the river is restless, and every few centuries leaps its banks and erases what comes before. This latest regional capital was an imperial encampment  during their furthest penetration of the Nahasa several centuries ago, taken over by the Aserai tribes after the legions withdrew.">
     <Components>
       <Town id="town_comp_A7" is_castle="false" level="3" background_crop_position="0.401" background_mesh="menu_aserai_4" wait_mesh="wait_aserai_town" gate_rotation="0.408" />
     </Components>
@@ -3312,7 +3312,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_A8" name="{=Settlements.Settlement.name.town_A8}Qasira" owner="Faction.clan_aserai_6" posX="767.511" posY="254.374" culture="Culture.aserai" prosperity="3500" gate_posX="764.7613" gate_posY="256.1187" text="{=J4bgNT0r}The legendary Queen Eshora, it is said, punished the jinn who were harassing her people by imprisoning them in one of the caves above Qasira, carving the mystical eight-pointed star into the rock to seal them in. She sentenced them to haul water from the depths of the earth, feeding the springs that gush forth from the rocks and which for centuries have irrigated the date gardens of Qasira and its surrounding villages.">
+  <Settlement id="town_A8" name="{=Settlements.Settlement.name.town_A8}Kiahr" owner="Faction.clan_aserai_6" posX="767.511" posY="254.374" culture="Culture.aserai" prosperity="3500" gate_posX="764.7613" gate_posY="256.1187" text="{=J4bgNT0r}The legendary Queen Eshora, it is said, punished the jinn who were harassing her people by imprisoning them in one of the caves above Qasira, carving the mystical eight-pointed star into the rock to seal them in. She sentenced them to haul water from the depths of the earth, feeding the springs that gush forth from the rocks and which for centuries have irrigated the date gardens of Qasira and its surrounding villages.">
     <Components>
       <Town id="town_comp_A8" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_4" wait_mesh="wait_aserai_town" gate_rotation="0.508" />
     </Components>
