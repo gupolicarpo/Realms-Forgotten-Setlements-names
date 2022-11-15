@@ -4004,7 +4004,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Harthar and Sunion, to clan 4 -->
-  <Settlement id="town_V8" name="{=Settlements.Settlement.name.town_V8}Ostican" owner="Faction.clan_vlandia_8" posX="701.939" posY="579.7" culture="Culture.vlandia" prosperity="3900" gate_posX="700.0973" gate_posY="574.0897" text="{=Eb7Lgq10}Ostican was a minor imperial port that became a haven for seafarers of the northern oceans. Many were talented corsairs, employed by imperial factions to harry their foes during the latter empire's intermittent civil wars. Indeed, the some of the first Vlandians to come to Calradia's shores settled in the back alleys of this town, and no doubt sent word to their kinsmen of the riches to be had here should anyone invade in earnest.">
+  <Settlement id="town_V8" name="{=Settlements.Settlement.name.town_V8}Ulmira" owner="Faction.clan_vlandia_8" posX="701.939" posY="579.7" culture="Culture.vlandia" prosperity="3900" gate_posX="700.0973" gate_posY="574.0897" text="{=Eb7Lgq10}Ostican was a minor imperial port that became a haven for seafarers of the northern oceans. Many were talented corsairs, employed by imperial factions to harry their foes during the latter empire's intermittent civil wars. Indeed, the some of the first Vlandians to come to Calradia's shores settled in the back alleys of this town, and no doubt sent word to their kinsmen of the riches to be had here should anyone invade in earnest.">
     <Components>
       <Town id="town_comp_V8" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.308" />
     </Components>
@@ -4064,7 +4064,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_V9" name="{=Settlements.Settlement.name.town_V9}Rovalt" owner="Faction.clan_vlandia_6" posX="811.778" posY="553.895" culture="Culture.vlandia" prosperity="2800" gate_posX="813.7711" gate_posY="549.8659" text="{=1SnAH5K8}Rovalatys, in the mountains of the Ebor peninsula, was never fully an imperial town. Nordic migrants, drawn to the region by rumors of riches to be made prospecting for silver or hunting for furs, long outnumbered Calradians even before the Vlandian invasion. The Vlandians too recognized its potential, and despite its harsh winters this land is among the more populous regions of the kingdom, with bountiful fields in the valleys of the mountains feeding the constant flow of settlers from the south drawn here by their hunger for wealth.">
+  <Settlement id="town_V9" name="{=Settlements.Settlement.name.town_V9}Marresh" owner="Faction.clan_vlandia_6" posX="811.778" posY="553.895" culture="Culture.vlandia" prosperity="2800" gate_posX="813.7711" gate_posY="549.8659" text="{=1SnAH5K8}Rovalatys, in the mountains of the Ebor peninsula, was never fully an imperial town. Nordic migrants, drawn to the region by rumors of riches to be made prospecting for silver or hunting for furs, long outnumbered Calradians even before the Vlandian invasion. The Vlandians too recognized its potential, and despite its harsh winters this land is among the more populous regions of the kingdom, with bountiful fields in the valleys of the mountains feeding the constant flow of settlers from the south drawn here by their hunger for wealth.">
     <Components>
       <Town id="town_comp_V9" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" />
     </Components>
